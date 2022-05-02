@@ -1,0 +1,35 @@
+body {
+    background: midnightblue;
+    font: bolder 15pt Arial;
+}
+
+header {
+    color: red;
+    text-align: center;
+}
+
+section {
+    background: midnightblue;
+    border-radius: 10px;
+    padding: 1px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0,363);
+
+}
+
+div {
+    text-align: center;
+    padding: 8px;
+}
+
+form {
+    color: black;
+    text-align: end;
+}
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
